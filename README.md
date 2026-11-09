@@ -5,17 +5,13 @@
 <h1 align="center">postd for Mac</h1>
 
 <p align="center">
-  The independent editor for magazine-grade carousel posts, now as a native app on your Mac.<br>
+  Just postd. Less stress. More posts. Now as an app on your Mac.<br>
   <a href="https://postd.ai/en/download"><b>Download at postd.ai</b></a> · <a href="https://postd.ai">postd.ai</a>
-</p>
-
-<p align="center">
-  <img src="https://postd.ai/assets/og-cover-2026-09-en.jpg" width="720" alt="postd: the independent editor for magazine-grade carousel posts">
 </p>
 
 ## What it is
 
-postd is where creators, brands and studios design carousel posts, plan them and publish them to their channels. The desktop app is the same postd you know from the browser, in its own window, one click away in your Dock.
+postd is the posting tool with carousel editor, moodboard and content calendar. Instagram first, more networks follow. The desktop app is the same postd you know from the browser, in its own window, one click away in your Dock.
 
 - **Same account, same brands, same projects.** Sign in and keep working where you left off.
 - **Updates itself.** New versions download in the background. You restart when it suits you.
@@ -37,7 +33,7 @@ This repository only hosts the finished app files for each release. The source c
 <details>
 <summary>Deutsch</summary>
 
-**postd für den Mac.** Der unabhängige Editor für Carousel-Posts in Magazinqualität, jetzt als eigene App auf deinem Mac. Konto, Brands und Projekte bleiben dieselben wie im Browser. Die App aktualisiert sich selbst, ist von Apple signiert und notarisiert und läuft auf Apple Silicon und Intel.
+**postd für den Mac.** Just postd. Weniger Stress, mehr Posts. Posting-Tool mit Carousel-Editor, Moodboard und Content-Kalender, jetzt als eigene App auf deinem Mac. Konto, Brands und Projekte bleiben dieselben wie im Browser. Die App aktualisiert sich selbst, ist von Apple signiert und notarisiert und läuft auf Apple Silicon und Intel.
 
 Public Beta ab **11.11.2026, 11:11 Uhr**. Download unter **[postd.ai/download](https://postd.ai/download)**.
 
